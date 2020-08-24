@@ -1,0 +1,38 @@
+sfe package
+===========
+
+Submodules
+----------
+
+sfe.application module
+----------------------
+
+.. automodule:: sfe.application
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+sfe.company module
+------------------
+
+.. automodule:: sfe.company
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+sfe.extensions module
+---------------------
+
+.. automodule:: sfe.extensions
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: sfe
+   :members:
+   :undoc-members:
+   :show-inheritance:
