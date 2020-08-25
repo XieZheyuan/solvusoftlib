@@ -4,7 +4,7 @@ Solvusoft provides a number of databases with extensions, companies and applicat
 
 ## Install
 ```commandline
-pip install solvusoftlib
+pip install solvusoftlib2
 ```
 ## Extensions Data
 Extension Interface in `solvusoftlib.extensions`
